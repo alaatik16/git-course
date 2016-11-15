@@ -1,7 +1,6 @@
-//Master-haarassa
-va z = 1;
+//Kissa-muuttuja elaintiedon taltiointiin
 var y = 'kissa';
 var x = 3;
-if (x > 7) }
-run
-echo x + 1;
+if (x > 7) {
+  eco x+1;
+}
