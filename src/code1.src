@@ -1,2 +1,4 @@
-var x=3;
-ecox;
+//Kehityshaaran väliaikainen kommentti
+var kehitys = 7;
+var x = 3;
+echo x;
